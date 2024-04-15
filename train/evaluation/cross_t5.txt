@@ -1,0 +1,36 @@
+translate:
+Training sentence accuracy: 55.19%
+Training BLEU-2 Score: 88.75%
+Normalised Root-Mean squared error (NRMSE) for predicted train joint values, in percent: 0.059518949831865085
+Test sentence accuracy: 56.39%
+Test BLEU-2 Score: 86.84%
+Normalised Root-Mean squared error (NRMSE) for predicted test joint values, in percent: 0.05995157621600329
+
+describe:
+Training sentence accuracy: 100.00%
+Training BLEU-2 Score: 100.00%
+Normalised Root-Mean squared error (NRMSE) for predicted train joint values, in percent: 0.222230970597734
+Test sentence accuracy: 100.00%
+Test BLEU-2 Score: 100.00%
+Normalised Root-Mean squared error (NRMSE) for predicted test joint values, in percent: 0.2632021275987133
+
+execute:
+Training sentence accuracy: 100.00%
+Normalised Root-Mean squared error (NRMSE) for predicted train joint values, in percent: 0.34561506017195925
+Test sentence accuracy: 100.00%
+Normalised Root-Mean squared error (NRMSE) for predicted test joint values, in percent: 0.3745902156777566
+
+repeat language:
+Training sentence accuracy: 99.54%
+Training BLEU-2 Score: 99.77%
+Normalised Root-Mean squared error (NRMSE) for predicted train joint values, in percent: 0.09553959705434505
+Test sentence accuracy: 100.00%
+Test BLEU-2 Score: 100.00%
+Normalised Root-Mean squared error (NRMSE) for predicted test joint values, in percent: 0.26247090856073213
+
+repeat action:
+Training sentence accuracy: 100.00%
+Normalised Root-Mean squared error (NRMSE) for predicted train joint values, in percent: 0.23247675344582247
+Test sentence accuracy: 100.00%
+Normalised Root-Mean squared error (NRMSE) for predicted test joint values, in percent: 0.2560046102519961
+

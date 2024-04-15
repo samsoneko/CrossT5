@@ -1,0 +1,4 @@
+slide-to-left yellow
+move-sideways-to-left yellow
+slide-to-left blonde
+move-sideways-to-left blonde

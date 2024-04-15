@@ -1,0 +1,17 @@
+num_signals: 5
+L_input_dim: 22
+L_num_units: 256
+L_num_layers: 2
+L_max_length: 4
+VB_input_dim: 40
+VB_num_units: 256
+VB_num_layers: 2
+B_input_dim: 10
+B_max_length: 85
+hidden_dim: 512
+L_weight: 1.0
+B_weight: 1.0
+T_num_heads: 4
+T_num_layers: 1
+T_ff_dim: 1024
+T_dropout: 0.25

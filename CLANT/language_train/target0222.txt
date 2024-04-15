@@ -1,0 +1,4 @@
+slide-to-left violet
+move-sideways-to-left violet
+slide-to-left purple
+move-sideways-to-left purple

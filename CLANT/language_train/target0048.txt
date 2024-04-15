@@ -1,0 +1,4 @@
+push red
+move-up red
+push scarlet
+move-up scarlet

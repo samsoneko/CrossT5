@@ -1,0 +1,4 @@
+slide-to-left cyan
+move-sideways-to-left cyan
+slide-to-left greenish-blue
+move-sideways-to-left greenish-blue

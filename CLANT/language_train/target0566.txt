@@ -1,0 +1,4 @@
+slide-to-left blue
+move-sideways-to-left blue
+slide-to-left azure
+move-sideways-to-left azure

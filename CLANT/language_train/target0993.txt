@@ -1,0 +1,4 @@
+pull yellow
+move-down yellow
+pull blonde
+move-down blonde

@@ -1,0 +1,4 @@
+push yellow
+move-up yellow
+push blonde
+move-up blonde

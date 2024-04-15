@@ -1,0 +1,4 @@
+slide-to-right red
+move-sideways-to-right red
+slide-to-right scarlet
+move-sideways-to-right scarlet

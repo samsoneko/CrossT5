@@ -1,0 +1,4 @@
+slide-to-left green
+move-sideways-to-left green
+slide-to-left harlequin
+move-sideways-to-left harlequin

@@ -1,0 +1,1 @@
+When receiving a payment in litas, the change will be given in euro.

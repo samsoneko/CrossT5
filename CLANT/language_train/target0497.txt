@@ -1,0 +1,4 @@
+pull red
+move-down red
+pull scarlet
+move-down scarlet
