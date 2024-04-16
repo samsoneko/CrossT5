@@ -3,19 +3,11 @@
 Project that aims to combine the PTAE model with a large language model, like T5.
 CrossT5 is based on:
 
-Paired Transformed Autoencoders (PTAE)
+Paired Transformed Autoencoders (PTAE), Copyright (c) 2023, Ozan Özdemir <ozan.oezdemir@uni-hamburg.de>, last updated: 26 May 2023.
+Successor of Paired Variational Autoencoders (PVAE) with BERT. Original repository: https://github.com/oo222bs/PVAE-BERT/
+Adapted from Paired Recurrent Autoencoders (PRAE), Copyright (c) 2018, Tatsuro Yamada <yamadat@idr.ias.sci.waseda.ac.jp> Original repository: https://github.com/ogata-lab/PRAE/
 
-Last updated: 26 May 2023.
-This code has been adapted from Copyright (c) 2018, Tatsuro Yamada <<yamadat@idr.ias.sci.waseda.ac.jp>>
-Original repository: https://github.com/ogata-lab/PRAE/
-Copyright (c) 2023, Ozan Özdemir <<ozan.oezdemir@uni-hamburg.de>>
-
-Text-to-Text Transfer Transformer (T5), as part of the huggingface transformers package
-
-Variant: t5-small
-Last updated: 10 June 2023.
-Original repository: https://github.com/google-research/text-to-text-transfer-transformer
-Copyright (c) Google
+Text-to-Text Transfer Transformer (T5), Copyright (c) Google, in its t5-small variant, as part of the huggingface transformers package, last updated: 10 June 2023. Original repository: https://github.com/google-research/text-to-text-transfer-transformer
 
 ## Requirements
 - Python 3
