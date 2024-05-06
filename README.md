@@ -1,6 +1,10 @@
 # CrossT5
+Anton Caesar, Ozan Özdemir, Cornelius Weber, Stefan Wermter (2024)\
+Enabling action crossmodality for a pretrained large language model.\
+Natural Language Processing Journal, Volume 7, pages 100072.\
+http://dx.doi.org/10.1016/j.nlp.2024.100072\
 
-Project that aims to combine the PTAE model with a large language model, like T5.
+A project that aims to combine the PTAE model with a large language model, like T5.
 CrossT5 is based on:
 
 Paired Transformed Autoencoders (PTAE), Copyright (c) 2023, Ozan Özdemir <ozan.oezdemir@uni-hamburg.de>, last updated: 26 May 2023.
@@ -63,3 +67,17 @@ In use for this project:
     - proprioception_eval.py: inference time implementation for CrossT5, handles action (gets called by inference.py)
     - inference_robustness.py: robustness inference time implementation for CrossT5, handles language
     - proprioception_eval_robustness.py: robustness inference time implementation for CrossT5, handles action (gets called by inference_robustness.py)
+
+## Citation
+
+```
+@article{caesar2024crosst5,
+  author    = {Caesar, Anton and {\"O}zdemir, Ozan and Weber, Cornelius and Wermter, Stefan},
+  title     = {Enabling action crossmodality for a pretrained large language model},
+  journal   = {Natural Language Processing Journal},
+  volume = {7},
+  pages = {100072},
+  year      = {2024},
+  publisher = {Elsevier},
+}
+```
