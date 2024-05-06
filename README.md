@@ -2,7 +2,7 @@
 Anton Caesar, Ozan Özdemir, Cornelius Weber, Stefan Wermter (2024)\
 Enabling action crossmodality for a pretrained large language model.\
 Natural Language Processing Journal, Volume 7, pages 100072.\
-http://dx.doi.org/10.1016/j.nlp.2024.100072\
+http://dx.doi.org/10.1016/j.nlp.2024.100072
 
 A project that aims to combine the PTAE model with a large language model, like T5.
 CrossT5 is based on:
